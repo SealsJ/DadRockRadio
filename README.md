@@ -54,7 +54,7 @@ A Full Stack Music Product that takes inspiration from Spotify to show off my lo
 </details>
 
 ## Disclaimers
-- This Project takes advantage of Stripe API to simulate a subscription service of $8 a Month. This isn't a real service nor are there any real charges happening on Stripe. Just put in fake card information to bypass Stripe and gain full access. Stripe Integration was only for educational purposes to learn about APIs and SaaS Products.
+- This Project takes advantage of Stripe API to simulate a subscription service of $8 a Month. This isn't a real service nor are there any real charges happening on Stripe. PUT IN FAKE CARD INFORMATION to bypass Stripe and gain full access. Stripe Integration was only for educational purposes to learn about APIs and SaaS Products.
 
 ### Get in Touch
 If you have questions or need further assistance, feel free to email me at the link provided in my Github's README!
