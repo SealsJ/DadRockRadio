@@ -33,8 +33,9 @@ A Full Stack Music Product that takes inspiration from Spotify to show off my lo
 
 ## Setup
 1) Before Playing any music or uploading songs, user must create an account on the platform.
-2) Once Account is created, clicking on music will redirect user to Stripe to 'subscribe' before accessing any features of the service. (PUT IN FAKE CARD INFORMATION)
-3) Stripe sometimes logs out users when 'subscribing', just sign back into the platform to have full access!
+2) Once Account is created, clicking on music will redirect user to Stripe to 'subscribe' before accessing any features of the service.
+   (PUT IN FAKE CARD INFORMATION)
+4) Stripe sometimes logs out users when 'subscribing', just sign back into the platform to have full access once authenticated!
 
 ## Screenshots
 <details>
