@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img width=100% src="https://imgur.com/a/kwaVkf0.png" alt="Dad Rock Radio Banner">
+  <img width=100% src="https://imgur.com/hoAyYqx" alt="Dad Rock Radio Banner">
 </h1>
 
 <h4 align="center"> All of your Hard Rock Favorites in One Place! 🎸</h4>
