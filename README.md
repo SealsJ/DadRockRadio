@@ -1,34 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <br>
+  <img width=100% src="https://imgur.com/a/kwaVkf0.png" alt="Dad Rock Radio Banner">
+</h1>
 
-## Getting Started
+<h4 align="center"> All of your Hard Rock Favorites in One Place! 🎸</h4>
+<hr>
 
-First, run the development server:
+<p align="center">
+  <a href="#about">About</a>
+  •
+  <a href="#features">Features</a>
+  •
+  <a href="#setup">Account Creation</a>
+  •
+  <a href="#screenshots">Screenshots</a>
+  •
+  <a href="#disclaimers">Disclaimers</a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About
+A Full Stack Music Product that takes inspiration from Spotify to show off my love for hard rock classics like AC/DC, Metallica and Guns N' Roses! This Project leveraged Next.js, React.js, TailwindCSS, Typescript, Stripe API, and Supabase (PostgreSQL) for the database!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
+- Personal Account Creation taking advantage of a Stripe Subsciption Model 
+- Like Songs to add to your 'liked' playlist
+- Search Songs that have been added to the database
+- Upload your own songs to your library
+- Functionality to Stop / Play, Skip Forwards & Skip Backwards, and Adjust Volume in Browser
+- Newest Songs Section to Showcase Recent Uploads from all users
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Setup
+1) Before Playing any music or uploading songs, user must create an account on the platform.
+2) Once Account is created, clicking on music will redirect user to Stripe to 'subscribe' before accessing any features of the service. (PUT IN FAKE CARD INFORMATION)
+3) Stripe sometimes logs out users when 'subscribing', just sign back into the platform to have full access!
 
-## Learn More
+## Screenshots
+<details>
+<summary> <b>Click to view Images</b> </summary> 
+<br>
+<b>Home Page:</b>
+<br>
+<img width="500" src="https://imgur.com/a/xlJ6K6Q.png" alt="chat generation"/>
+<br><br>
+<b>Uploading a Song:</b>
+<br>
+<img height="500" src="https://imgur.com/a/VC4Fp6V.png" alt="image generation"/>
+<br><br>
 
-To learn more about Next.js, take a look at the following resources:
+<hr>
+</details>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Disclaimers
+- This Project takes advantage of Stripe API to simulate a subscription service of $8 a Month. This isn't a real service nor are there any real charges happening on Stripe. Just put in fake card information to bypass Stripe and gain full access. Stripe Integration was only for educational purposes to learn about APIs and SaaS Products.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Get in Touch
+If you have questions or need further assistance, feel free to email me at the link provided in my Github's README!
