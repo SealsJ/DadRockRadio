@@ -43,11 +43,11 @@ A Full Stack Music Product that takes inspiration from Spotify to show off my lo
 <br>
 <b>Home Page:</b>
 <br>
-<img width="500" src="https://imgur.com/PdNlpdH.png" alt="chat generation"/>
+<img height="400" width="500" src="https://imgur.com/PdNlpdH.png" alt="chat generation"/>
 <br><br>
 <b>Uploading a Song:</b>
 <br>
-<img height="500" src="https://imgur.com/7rLz03B.png" alt="image generation"/>
+<img height="400" src="https://imgur.com/7rLz03B.png" alt="image generation"/>
 <br><br>
 
 <hr>
